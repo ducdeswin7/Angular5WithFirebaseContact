@@ -1,5 +1,20 @@
 # Angular5firebasecrud
 
+Goto Firebase Console. it will automatically log in with your gmail account.
+
+Click On Add Project. it will open a pop-up window, inside that name your project, 
+
+then click on Add Project button.After creating firebase project, Project Dashboard / Project Overview will be opened like this.
+
+Click on ‘Add Firebase to your web app’, it will open another popup window with firebase project configuration. copy config object from there.
+
+Then past inside environment.ts  file as firebaseConfig.
+            
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
 
 ## Development server
