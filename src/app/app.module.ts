@@ -32,4 +32,5 @@ import { EmployeeListComponent } from './employees/employee-list/employee-list.c
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }
